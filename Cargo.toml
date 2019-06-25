@@ -1,0 +1,10 @@
+[package]
+name = "nv"
+version = "0.1.0"
+authors = ["javyre"]
+edition = "2018"
+
+[dependencies]
+enum_dispatch = "0.1"
+crossterm = "0.5"
+#termion = "1.5"
